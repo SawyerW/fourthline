@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: main
+    quoting:
+      database: false
+      schema: false
+      identifier: false
+
+    database:  'fourthline'
+
+    tables:
+      - name: prediction
+      - name: decision  
+      - name: request

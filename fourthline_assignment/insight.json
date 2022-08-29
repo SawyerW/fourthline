@@ -1,0 +1,1506 @@
+{
+    "abstractObjectType": false,
+    "conversionPossible": false,
+    "iql": "objectType=Service",
+    "iqlSearchResult": true,
+    "objectEntries": [
+        {
+            "_links": {
+                "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/269"
+            },
+            "attributes": [
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1572",
+                    "id": "1572",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "713501765",
+                            "referencedType": false,
+                            "searchValue": "713501765",
+                            "value": "713501765"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "9",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1571",
+                    "id": "1571",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "ari:cloud:graph::service/1ec8ae85-3d40-46dd-8516-93be6afb9aad/ee8c4422-baa2-11ec-9917-0abe3f4a6601",
+                            "referencedType": false,
+                            "searchValue": "ari:cloud:graph::service/1ec8ae85-3d40-46dd-8516-93be6afb9aad/ee8c4422-baa2-11ec-9917-0abe3f4a6601",
+                            "value": "ari:cloud:graph::service/1ec8ae85-3d40-46dd-8516-93be6afb9aad/ee8c4422-baa2-11ec-9917-0abe3f4a6601"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "8",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1568",
+                    "id": "1568",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "4GS/PowerUi",
+                            "referencedType": false,
+                            "searchValue": "4GS/PowerUi",
+                            "value": "4GS/PowerUi"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "2",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1567",
+                    "id": "1567",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "12/Apr/22 8:55 PM",
+                            "referencedType": false,
+                            "searchValue": "2022-04-12T20:55:50.522Z",
+                            "value": "2022-04-12T20:55:50.522Z"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "4",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1566",
+                    "id": "1566",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "12/Apr/22 8:55 PM",
+                            "referencedType": false,
+                            "searchValue": "2022-04-12T20:55:50.522Z",
+                            "value": "2022-04-12T20:55:50.522Z"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "3",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1565",
+                    "id": "1565",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "SVC-269",
+                            "referencedType": false,
+                            "searchValue": "SVC-269",
+                            "value": "SVC-269"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "1",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1569",
+                    "id": "1569",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "4GS is the Financial package used in Portugal. It includes Accounting, Asset Management and Accounts Payable and Accounts receivable modules. PowerUi is an alternative interface to access this application (windows client) with additional functionalities. The service is provided by the Local IT Team.",
+                            "referencedType": false,
+                            "searchValue": "4GS is the Financial package used in Portugal. It includes Accounting, Asset Management and Accounts Payable and Accounts receivable modules. PowerUi is an alternative interface to access this application (windows client) with additional functionalities. The service is provided by the Local IT Team.",
+                            "value": "4GS is the Financial package used in Portugal. It includes Accounting, Asset Management and Accounts Payable and Accounts receivable modules. PowerUi is an alternative interface to access this application (windows client) with additional functionalities. The service is provided by the Local IT Team."
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "5",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1570",
+                    "id": "1570",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "Tier 1",
+                            "referencedType": false,
+                            "searchValue": "Tier 1",
+                            "value": "Tier 1"
+                        }
+                    ],
+                    "objectId": "269",
+                    "objectTypeAttributeId": "6",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                }
+            ],
+            "avatar": {
+                "mediaClientConfig": {
+                    "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                    "fileId": "c21320fe-1ff4-4169-a78a-5a52068046fd",
+                    "issuer": "micros-group/jsm-cmdb",
+                    "mediaBaseUrl": "https://api.media.atlassian.com",
+                    "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTpjMjEzMjBmZS0xZmY0LTQxNjktYTc4YS01YTUyMDY4MDQ2ZmQiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6IjlhYzMzNGYxLWIxMDYtNDdmMC1hMjU0LTM5MzU3NTU2NDY3OCJ9.UPRx1cOWAd8SH58IbJ29eRkkcqq05Jw5H7dmqoCpxV8p4zEx8g0wbTMfIXvYGmj45Zt7Yg7GTOd5T597xksT-5UNuSTGIWUrG0jliiZwU1Shrc6RGCSnHsBfelTmGrIsiQ4Gmm7MpFO1TmQfKudmgvJLxI_-3BKmEXtiOKxOJIWo33Z85VDbB5CDAMXV-2wRA1C7Vgc6-agFSLko5zxw_jZepiFzEv6vsu7llYzaTNIoZyQA1nZnAfqNlBLeO9xd1lW-WeM7sougCqMa3yfRcuZam7o41eMVOmH92TgOyNbw3T6XvPmT7i6MNTvowLfFc4aXtDYml2lj27Vb517kag",
+                    "tokenLifespanInMinutes": 60
+                },
+                "objectId": "269",
+                "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=144",
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=288",
+                "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48",
+                "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=72",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "created": "2022-04-12T20:55:50.522Z",
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:269",
+            "hasAvatar": false,
+            "id": "269",
+            "label": "4GS/PowerUi",
+            "name": "4GS/PowerUi",
+            "objectKey": "SVC-269",
+            "objectType": {
+                "abstractObjectType": false,
+                "created": "2021-03-25T23:40:54.964Z",
+                "description": "This object type contains the services your site uses across projects.",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1",
+                "icon": {
+                    "id": "107",
+                    "name": "Service",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48"
+                },
+                "id": "1",
+                "inherited": false,
+                "name": "Service",
+                "objectCount": 0,
+                "objectSchemaId": "1",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2021-03-25T23:40:54.964Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "timestamp": 1652254737171,
+            "updated": "2022-05-11T07:38:57.171Z",
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "_links": {
+                "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/314"
+            },
+            "attributes": [
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1028006",
+                    "id": "1028006",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "LPPT - Application Support",
+                            "referencedObject": {
+                                "_links": {
+                                    "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/313"
+                                },
+                                "avatar": {
+                                    "mediaClientConfig": {
+                                        "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                                        "fileId": "a07625d2-5088-4388-b46f-8144895f056f",
+                                        "issuer": "micros-group/jsm-cmdb",
+                                        "mediaBaseUrl": "https://api.media.atlassian.com",
+                                        "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTphMDc2MjVkMi01MDg4LTQzODgtYjQ2Zi04MTQ0ODk1ZjA1NmYiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6ImE5MTUxY2E0LTJhNDUtNDI1OS04ZWIxLWYzN2I2ZGU1NGUwYSJ9.QQrlp0skiK5FsVFHUk9PEED_dBOaTdGBbvRtzb1OIPuroM_pGnIyfEHxrLEr6xtz8NKPJcrhgHIqt0eyPBB6EjjeK-LMBtpkwaV02DUamUBawwIClFMeVPuydps5iArpwavTa77t-fdUvvMVu3EkZcTe_Y0Y770zQZ257MYnT0Bw115pyAy4qrG6ClYFiV2ihwEO3iN8ViC-IUdHWWAjeyy3sWJKZse2yxdNVm8XME2F412ZOa1S5Uf8D5ZJ6mYEGKRxcvGL3ZhxGPv7cjNNb9kXWgGxfw0k7jP1MrYu9Va0lp7-pm-aapSyPJMslzjUyCkbpB_BF2y8dz1YZ811ig",
+                                        "tokenLifespanInMinutes": 60
+                                    },
+                                    "objectId": "313",
+                                    "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=144",
+                                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                                    "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=288",
+                                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48",
+                                    "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=72",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "created": "2022-04-12T23:03:19.261Z",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:313",
+                                "hasAvatar": false,
+                                "id": "313",
+                                "label": "LPPT - Application Support",
+                                "name": "LPPT - Application Support",
+                                "objectKey": "ITSM-313",
+                                "objectType": {
+                                    "abstractObjectType": false,
+                                    "created": "2021-12-15T09:12:08.178Z",
+                                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:19",
+                                    "icon": {
+                                        "id": "130",
+                                        "name": "User Groups",
+                                        "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                                        "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48"
+                                    },
+                                    "id": "19",
+                                    "inherited": false,
+                                    "name": "Team",
+                                    "objectCount": 0,
+                                    "objectSchemaId": "11",
+                                    "parentObjectTypeInherited": false,
+                                    "position": 0,
+                                    "type": 0,
+                                    "updated": "2022-06-09T10:54:40.977Z",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "timestamp": 1659319209536,
+                                "updated": "2022-08-01T02:00:09.536Z",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            },
+                            "referencedType": true,
+                            "searchValue": "ITSM-313"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "476",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1885",
+                    "id": "1885",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "4GS/PowerUi",
+                            "referencedObject": {
+                                "_links": {
+                                    "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/269"
+                                },
+                                "avatar": {
+                                    "mediaClientConfig": {
+                                        "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                                        "fileId": "c21320fe-1ff4-4169-a78a-5a52068046fd",
+                                        "issuer": "micros-group/jsm-cmdb",
+                                        "mediaBaseUrl": "https://api.media.atlassian.com",
+                                        "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTpjMjEzMjBmZS0xZmY0LTQxNjktYTc4YS01YTUyMDY4MDQ2ZmQiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6ImZiODM4NjRmLWZlZjEtNDYyNi1hMmMzLTUxZDNlOWI3ZTQ0MSJ9.cm2Mx1BHxA0wXr4bVtQ-HMHSxew1f3vV4RsjVpxkqSqIK0mC9B4YFnC9g2pAy1Ln4Z3W3Wc3XXwfSY6J6_ndvzsb7He_FcXs1tNA1JfS-OQYCc4MUqPSqgCTeH6fnTsQN9NI64T6KqsaCEgj_6mvkTV_StT1APDb6Kc0K61kIleSQKHx0j0I_sSTUexcm6t2DeokG5_2gOe0g27xckaDdAG48E1bAOZEd1oe5Kr1ikl90gIottmU0huQF1cl4QxP0yZYIMerbv3bd6W7nDTEUR9kvuqW11lJLViDgTGlzPEsNaCTTsj_Dq08JymDeG8N8ReXlWBU8BLkk7fmBsSawA",
+                                        "tokenLifespanInMinutes": 60
+                                    },
+                                    "objectId": "269",
+                                    "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=144",
+                                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                                    "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=288",
+                                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48",
+                                    "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=72",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "created": "2022-04-12T20:55:50.522Z",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:269",
+                                "hasAvatar": false,
+                                "id": "269",
+                                "label": "4GS/PowerUi",
+                                "name": "4GS/PowerUi",
+                                "objectKey": "SVC-269",
+                                "objectType": {
+                                    "abstractObjectType": false,
+                                    "created": "2021-03-25T23:40:54.964Z",
+                                    "description": "This object type contains the services your site uses across projects.",
+                                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1",
+                                    "icon": {
+                                        "id": "107",
+                                        "name": "Service",
+                                        "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                                        "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48"
+                                    },
+                                    "id": "1",
+                                    "inherited": false,
+                                    "name": "Service",
+                                    "objectCount": 0,
+                                    "objectSchemaId": "1",
+                                    "parentObjectTypeInherited": false,
+                                    "position": 0,
+                                    "type": 0,
+                                    "updated": "2021-03-25T23:40:54.964Z",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "timestamp": 1652254737171,
+                                "updated": "2022-05-11T07:38:57.171Z",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            },
+                            "referencedType": true,
+                            "searchValue": "SVC-269"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "86",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1887",
+                    "id": "1887",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "Active",
+                            "referencedType": false,
+                            "searchValue": "Active",
+                            "status": {
+                                "category": 1,
+                                "description": "",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:2",
+                                "id": "2",
+                                "name": "Active",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            }
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "90",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1886",
+                    "id": "1886",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "LPPT - Application Support",
+                            "referencedObject": {
+                                "_links": {
+                                    "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/313"
+                                },
+                                "avatar": {
+                                    "mediaClientConfig": {
+                                        "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                                        "fileId": "a07625d2-5088-4388-b46f-8144895f056f",
+                                        "issuer": "micros-group/jsm-cmdb",
+                                        "mediaBaseUrl": "https://api.media.atlassian.com",
+                                        "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTphMDc2MjVkMi01MDg4LTQzODgtYjQ2Zi04MTQ0ODk1ZjA1NmYiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6IjdkMmY1YmUzLTFhNGMtNDU3NC1iNzBjLWVkZTlkYTY3MGQ3NSJ9.TFWLRcZ8bTL7W0gVtUO8eV0cmfDiANWEGc5qRd4bv2_xxnnhXmkZG6BPoMCEnxS_7OuIFBdt1olvmGzx4qTLD9-miNTPut6nzU2H3SSAeovV9CR5Lc7CGB7UB2XIltDSeRwjNjuxkXkNQlN2r8e82bcEXNEJp2LJ99YiXfK8lFnCz8-IzfzYCRyolRSggumRscTErCeT_P0LI56mlWmDgo0LF4J11eZaebgVRoAw_sgDs1WcKg8PU9tKIPyX_Vog1AkiFUWnlkaRCtg-8va-l9djI2p-AFzLu3OEBkbKZ8dJZc4qIeHeDHdZTmSTuCGKE99c66Xg9sd2fuOXIvXEFg",
+                                        "tokenLifespanInMinutes": 60
+                                    },
+                                    "objectId": "313",
+                                    "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=144",
+                                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                                    "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=288",
+                                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48",
+                                    "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=72",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "created": "2022-04-12T23:03:19.261Z",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:313",
+                                "hasAvatar": false,
+                                "id": "313",
+                                "label": "LPPT - Application Support",
+                                "name": "LPPT - Application Support",
+                                "objectKey": "ITSM-313",
+                                "objectType": {
+                                    "abstractObjectType": false,
+                                    "created": "2021-12-15T09:12:08.178Z",
+                                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:19",
+                                    "icon": {
+                                        "id": "130",
+                                        "name": "User Groups",
+                                        "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                                        "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48"
+                                    },
+                                    "id": "19",
+                                    "inherited": false,
+                                    "name": "Team",
+                                    "objectCount": 0,
+                                    "objectSchemaId": "11",
+                                    "parentObjectTypeInherited": false,
+                                    "position": 0,
+                                    "type": 0,
+                                    "updated": "2022-06-09T10:54:40.977Z",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "timestamp": 1659319209536,
+                                "updated": "2022-08-01T02:00:09.536Z",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            },
+                            "referencedType": true,
+                            "searchValue": "ITSM-313"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "87",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1882",
+                    "id": "1882",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "13/Jul/22 9:44 AM",
+                            "referencedType": false,
+                            "searchValue": "2022-07-13T09:44:33.920Z",
+                            "value": "2022-07-13T09:44:33.920Z"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "77",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1883",
+                    "id": "1883",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "4GS/PowerUi",
+                            "referencedType": false,
+                            "searchValue": "4GS/PowerUi",
+                            "value": "4GS/PowerUi"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "75",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1881",
+                    "id": "1881",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "12/Apr/22 11:04 PM",
+                            "referencedType": false,
+                            "searchValue": "2022-04-12T23:04:16.537Z",
+                            "value": "2022-04-12T23:04:16.537Z"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "76",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1042353",
+                    "id": "1042353",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "Local",
+                            "referencedType": false,
+                            "searchValue": "Local",
+                            "value": "Local"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "499",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1984",
+                    "id": "1984",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "LPPT",
+                            "referencedObject": {
+                                "_links": {
+                                    "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/36"
+                                },
+                                "avatar": {
+                                    "mediaClientConfig": {
+                                        "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                                        "fileId": "7a458e5b-c7dc-4122-a0a0-4db90fe8311a",
+                                        "issuer": "micros-group/jsm-cmdb",
+                                        "mediaBaseUrl": "https://api.media.atlassian.com",
+                                        "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTo3YTQ1OGU1Yi1jN2RjLTQxMjItYTBhMC00ZGI5MGZlODMxMWEiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6ImRjNDgzZjdjLTlkY2EtNDU4ZC04ZjY0LWQ1MmJjOGY5NGEyMCJ9.cP7kBx7dfaqLKkjLPxIHoQ3dUGLcuzc3PlybToG6QuOLouq2RWUffpfuAw_SCfxp7msI42AAn5oX2-K4HWnQ9E__EZaD6C1oY-Da9bOoTji6TlWLyDf7A7LzAlzr3HcYx2ZomlXUc3ey3bDh8DiZG-vY9xCJLMkVnxMf9m6gw3RWxp6gC4mOOr-ONQWSfH_pW8ZKdAezHpTHRDNIM3H7c_idg34QkBqj3YwVqfuozKEUma7-EI3ES7xyOtUE56i0HPLI-0lk0SjPEnDD18P8LWjOEITk3Dbo1tqUwWaVpvDdDC3T3vjqZoAUdhRtieBBtzdAym5s8nvfwdIZfSLeIA",
+                                        "tokenLifespanInMinutes": 60
+                                    },
+                                    "objectId": "36",
+                                    "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=144",
+                                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=16",
+                                    "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=288",
+                                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=48",
+                                    "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=72",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "created": "2021-12-16T12:14:48.321Z",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:36",
+                                "hasAvatar": false,
+                                "id": "36",
+                                "label": "LPPT",
+                                "name": "LPPT",
+                                "objectKey": "ITSM-36",
+                                "objectType": {
+                                    "abstractObjectType": false,
+                                    "created": "2021-12-15T09:11:25.823Z",
+                                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:15",
+                                    "icon": {
+                                        "id": "13",
+                                        "name": "Building",
+                                        "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=16",
+                                        "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=48"
+                                    },
+                                    "id": "15",
+                                    "inherited": false,
+                                    "name": "Entity",
+                                    "objectCount": 0,
+                                    "objectSchemaId": "11",
+                                    "parentObjectTypeInherited": false,
+                                    "position": 0,
+                                    "type": 0,
+                                    "updated": "2021-12-15T09:11:25.823Z",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "timestamp": 1659446824202,
+                                "updated": "2022-08-02T13:27:04.202Z",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            },
+                            "referencedType": true,
+                            "searchValue": "ITSM-36"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "89",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1880",
+                    "id": "1880",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "ITSM-314",
+                            "referencedType": false,
+                            "searchValue": "ITSM-314",
+                            "value": "ITSM-314"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "74",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                },
+                {
+                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1884",
+                    "id": "1884",
+                    "objectAttributeValues": [
+                        {
+                            "displayValue": "Business Support",
+                            "referencedObject": {
+                                "_links": {
+                                    "self": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/object/47"
+                                },
+                                "avatar": {
+                                    "mediaClientConfig": {
+                                        "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                                        "fileId": "e04ea1aa-049d-4531-85ad-034273d7f84f",
+                                        "issuer": "micros-group/jsm-cmdb",
+                                        "mediaBaseUrl": "https://api.media.atlassian.com",
+                                        "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTplMDRlYTFhYS0wNDlkLTQ1MzEtODVhZC0wMzQyNzNkN2Y4NGYiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6ImI5NmIyZTcyLTFjZjQtNDE0My04MmRlLWVhOGEyYTk4MWIxNiJ9.ovNsKRaD4C5apLiCYNC449ruzsMKI68C3hdz_t-_GPxX1WQhWHN3XVBf_VhjuQAVlUxPSAdCj2cdVnn17oKX6Tuw0T8zKy_Y6oXNdRqKm4Zs4Io_5wkovh8SELLX1l4-5v5JTamQfYEVsFcdMPJ1LM-dECwPx86iaghG1bXN4t5TVKQOfvLutjUQTRVnKtnuRJxYDm7aPX28Ql3ZQdqBJqd3qCJbvU5lqo_03ikVkxlo61GPD1afDMF55YbkfTPE00Q6chnIjIpzGezVcDOxVTIv5kWItaFpjdcc3RexNEMuK3fuITf85D_9jHAYpOOQtdbGeohCWOmB1WNjiuUNCA",
+                                        "tokenLifespanInMinutes": 60
+                                    },
+                                    "objectId": "47",
+                                    "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=144",
+                                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=16",
+                                    "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=288",
+                                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=48",
+                                    "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=72",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "created": "2021-12-16T12:17:52.121Z",
+                                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:47",
+                                "hasAvatar": false,
+                                "id": "47",
+                                "label": "Business Support",
+                                "name": "Business Support",
+                                "objectKey": "ITSM-47",
+                                "objectType": {
+                                    "abstractObjectType": false,
+                                    "created": "2021-12-15T09:11:48.009Z",
+                                    "globalId": "89162b47-7f0b-4d21-823b-57f008682778:17",
+                                    "icon": {
+                                        "id": "74",
+                                        "name": "Module",
+                                        "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=16",
+                                        "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=48"
+                                    },
+                                    "id": "17",
+                                    "inherited": false,
+                                    "name": "Service Category",
+                                    "objectCount": 0,
+                                    "objectSchemaId": "11",
+                                    "parentObjectTypeInherited": false,
+                                    "position": 0,
+                                    "type": 0,
+                                    "updated": "2022-06-09T10:54:40.978Z",
+                                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                                },
+                                "timestamp": 1659006166597,
+                                "updated": "2022-07-28T11:02:46.597Z",
+                                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                            },
+                            "referencedType": true,
+                            "searchValue": "ITSM-47"
+                        }
+                    ],
+                    "objectId": "314",
+                    "objectTypeAttributeId": "85",
+                    "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+                }
+            ],
+            "avatar": {
+                "mediaClientConfig": {
+                    "clientId": "0c07be1e-0420-425c-9822-47dac1b9a55d",
+                    "fileId": "7449aabe-3bc9-47ce-b05c-e9992672f902",
+                    "issuer": "micros-group/jsm-cmdb",
+                    "mediaBaseUrl": "https://api.media.atlassian.com",
+                    "mediaJwtToken": "eyJraWQiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiXC9wZ3E0OTlqNnA0b251MXEzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJtZWRpYSIsImNsaWVudElkIjoiMGMwN2JlMWUtMDQyMC00MjVjLTk4MjItNDdkYWMxYjlhNTVkIiwiYWNjZXNzIjp7InVybjpmaWxlc3RvcmU6ZmlsZTo3NDQ5YWFiZS0zYmM5LTQ3Y2UtYjA1Yy1lOTk5MjY3MmY5MDIiOlsicmVhZCJdfSwibmJmIjoxNjYxMzQzMDcyLCJpc3MiOiJtaWNyb3MtZ3JvdXBcL2pzbS1jbWRiIiwiZXhwIjoxNjYxMzQ2NzMyLCJpYXQiOjE2NjEzNDMxMzIsImp0aSI6IjYzYWViMGNmLWFhMDQtNDU5NS1hMzIyLTU4NjAzY2RlOTM5YiJ9.I9ZmGS6q3qM8co-XeRG1zYHAMKRAiwqy6YS9yFMGy-Gby_zS4sAqbS3tCi1BxYM5qO7Qr56kTONBXM2pQmoBtkYZgGws67WtqtGkfAdqNJkk1B3b4sDL0L7FgcAhA55O3yv0zNONq1hulMcc_nclC4RyrOfO-YmIGGgSpBxYRJsTdP4_YMpzyJj7csXT0bX6h5dGTjFhCVmOiHHz6F9W9PlrGW-1xWFzuX5GZuy17i7ANf9nPvKkf3NvSFnTXrMFmR6TAxJKIYMWoKAVwOHo64O-2F0dmCZw7YLboty371r60hZXEN6gvl469abhBs15vdFQVCkQH66ScwLNq3PRiA",
+                    "tokenLifespanInMinutes": 60
+                },
+                "objectId": "314",
+                "url144": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=144",
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=16",
+                "url288": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=288",
+                "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=48",
+                "url72": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=72",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "created": "2022-04-12T23:04:16.537Z",
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:314",
+            "hasAvatar": false,
+            "id": "314",
+            "label": "4GS/PowerUi",
+            "name": "4GS/PowerUi",
+            "objectKey": "ITSM-314",
+            "objectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:11:57.791Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:18",
+                "icon": {
+                    "id": "108",
+                    "name": "Services",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/18/icon.png?size=48"
+                },
+                "id": "18",
+                "inherited": false,
+                "name": "Service",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeId": "17",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2021-12-15T09:11:57.791Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "timestamp": 1657705473964,
+            "updated": "2022-07-13T09:44:33.964Z",
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        }
+    ],
+    "objectTypeAttributes": [
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1",
+            "hidden": false,
+            "id": "1",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Key",
+            "options": "",
+            "position": 0,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:2",
+            "hidden": false,
+            "id": "2",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": true,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Name",
+            "options": "",
+            "position": 1,
+            "removable": false,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 6,
+                "name": "DateTime"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:3",
+            "hidden": false,
+            "id": "3",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Created",
+            "options": "",
+            "position": 2,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 6,
+                "name": "DateTime"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+            "hidden": false,
+            "id": "4",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Updated",
+            "options": "",
+            "position": 3,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 9,
+                "name": "Textarea"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:5",
+            "hidden": false,
+            "id": "5",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Description",
+            "options": "",
+            "position": 4,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 10,
+                "name": "Select"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:6",
+            "hidden": false,
+            "id": "6",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Tier",
+            "options": "Tier 1,Tier 2,Tier 3,Tier 4",
+            "position": 5,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:7",
+            "hidden": false,
+            "id": "7",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": -1,
+            "minimumCardinality": 0,
+            "name": "Service relationships",
+            "options": "",
+            "position": 6,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-03-25T23:40:54.964Z",
+                "description": "This object type contains the services your site uses across projects.",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1",
+                "icon": {
+                    "id": "107",
+                    "name": "Service",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48"
+                },
+                "id": "1",
+                "inherited": false,
+                "name": "Service",
+                "objectCount": 0,
+                "objectSchemaId": "1",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2021-03-25T23:40:54.964Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "1",
+            "referenceType": {
+                "color": "42526E",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:6",
+                "id": "6",
+                "name": "Depends on",
+                "objectSchemaId": "1",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/6/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:8",
+            "hidden": false,
+            "id": "8",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Service ID",
+            "options": "",
+            "position": 7,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": true,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:9",
+            "hidden": true,
+            "id": "9",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Revision",
+            "options": "",
+            "position": 8,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:74",
+            "hidden": false,
+            "id": "74",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Key",
+            "options": "",
+            "position": 0,
+            "removable": false,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 0,
+                "name": "Text"
+            },
+            "description": "The name of the object",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:75",
+            "hidden": false,
+            "id": "75",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": true,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Name",
+            "options": "",
+            "position": 1,
+            "removable": false,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 6,
+                "name": "DateTime"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:76",
+            "hidden": false,
+            "id": "76",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Created",
+            "options": "",
+            "position": 2,
+            "removable": false,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 6,
+                "name": "DateTime"
+            },
+            "editable": false,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:77",
+            "hidden": false,
+            "id": "77",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Updated",
+            "options": "",
+            "position": 3,
+            "removable": false,
+            "sortable": true,
+            "summable": false,
+            "system": true,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "To which service category does this service belong?",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:85",
+            "hidden": false,
+            "id": "85",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Service Category",
+            "options": "",
+            "position": 4,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:11:48.009Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:17",
+                "icon": {
+                    "id": "74",
+                    "name": "Module",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/17/icon.png?size=48"
+                },
+                "id": "17",
+                "inherited": false,
+                "name": "Service Category",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2022-06-09T10:54:40.978Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "17",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "Link to the exact equivalent in the Services object schema (temporary workaround)",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:86",
+            "hidden": false,
+            "id": "86",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Link to Global Service",
+            "options": "",
+            "position": 5,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-03-25T23:40:54.964Z",
+                "description": "This object type contains the services your site uses across projects.",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:1",
+                "icon": {
+                    "id": "107",
+                    "name": "Service",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/1/icon.png?size=48"
+                },
+                "id": "1",
+                "inherited": false,
+                "name": "Service",
+                "objectCount": 0,
+                "objectSchemaId": "1",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2021-03-25T23:40:54.964Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "1",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "Which team is supporting this service?",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:87",
+            "hidden": false,
+            "id": "87",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "iql": "",
+            "label": false,
+            "maximumCardinality": -1,
+            "minimumCardinality": 0,
+            "name": "Solution Group",
+            "options": "",
+            "position": 6,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:12:08.178Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:19",
+                "icon": {
+                    "id": "130",
+                    "name": "User Groups",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48"
+                },
+                "id": "19",
+                "inherited": false,
+                "name": "Team",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2022-06-09T10:54:40.977Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "19",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "regexValidation": "",
+            "removable": true,
+            "sortable": true,
+            "suffix": "",
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "Which third parties are involved in this service?",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:88",
+            "hidden": false,
+            "id": "88",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "iql": "",
+            "label": false,
+            "maximumCardinality": -1,
+            "minimumCardinality": 0,
+            "name": "Third Party",
+            "options": "",
+            "position": 7,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:11:36.613Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:16",
+                "icon": {
+                    "id": "43",
+                    "name": "Factory",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/16/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/16/icon.png?size=48"
+                },
+                "id": "16",
+                "inherited": false,
+                "name": "Third party",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2022-03-07T14:48:42.054Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "16",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "regexValidation": "",
+            "removable": true,
+            "sortable": true,
+            "suffix": "",
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "Which entities make use of this service?",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:89",
+            "hidden": false,
+            "id": "89",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "iql": "",
+            "label": false,
+            "maximumCardinality": -1,
+            "minimumCardinality": 0,
+            "name": "Entity",
+            "options": "",
+            "position": 8,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:11:25.823Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:15",
+                "icon": {
+                    "id": "13",
+                    "name": "Building",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/15/icon.png?size=48"
+                },
+                "id": "15",
+                "inherited": false,
+                "name": "Entity",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2021-12-15T09:11:25.823Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "15",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "regexValidation": "",
+            "removable": true,
+            "sortable": true,
+            "suffix": "",
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "Set the status to active if this should be actively used on the production environment in JSM",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:90",
+            "hidden": false,
+            "id": "90",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Status",
+            "options": "",
+            "position": 9,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 7,
+            "typeValueMulti": [
+                "2",
+                "8"
+            ],
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "additionalValue": "DISABLED",
+            "defaultType": {
+                "id": 7,
+                "name": "URL"
+            },
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:106",
+            "hidden": false,
+            "id": "106",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Knowledge Base",
+            "options": "",
+            "position": 10,
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:347",
+            "hidden": false,
+            "id": "347",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Digital Owner",
+            "options": "",
+            "position": 11,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2022-05-17T08:10:14.045Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:34",
+                "icon": {
+                    "id": "3",
+                    "name": "Active Directory",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/34/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/34/icon.png?size=48"
+                },
+                "id": "34",
+                "inherited": false,
+                "name": "Digital Organisation",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 1,
+                "type": 0,
+                "updated": "2022-07-13T08:31:08.685Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "34",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "description": "The default Solution Group for the service",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:476",
+            "hidden": false,
+            "id": "476",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 0,
+            "name": "Default Solution Group",
+            "options": "",
+            "position": 12,
+            "referenceObjectType": {
+                "abstractObjectType": false,
+                "created": "2021-12-15T09:12:08.178Z",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:19",
+                "icon": {
+                    "id": "130",
+                    "name": "User Groups",
+                    "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=16",
+                    "url48": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/objecttype/19/icon.png?size=48"
+                },
+                "id": "19",
+                "inherited": false,
+                "name": "Team",
+                "objectCount": 0,
+                "objectSchemaId": "11",
+                "parentObjectTypeInherited": false,
+                "position": 0,
+                "type": 0,
+                "updated": "2022-06-09T10:54:40.977Z",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "referenceObjectTypeId": "19",
+            "referenceType": {
+                "color": "49a6ed",
+                "description": "Reference",
+                "globalId": "89162b47-7f0b-4d21-823b-57f008682778:4",
+                "id": "4",
+                "name": "Reference",
+                "removable": false,
+                "url16": "https://api.atlassian.com/jsm/insight/workspace/89162b47-7f0b-4d21-823b-57f008682778/v1/config/referencetype/4/image.png?size=16",
+                "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+            },
+            "removable": true,
+            "sortable": true,
+            "summable": false,
+            "system": false,
+            "type": 1,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        },
+        {
+            "defaultType": {
+                "id": 10,
+                "name": "Select"
+            },
+            "description": "Is this a local or global service?",
+            "editable": true,
+            "globalId": "89162b47-7f0b-4d21-823b-57f008682778:499",
+            "hidden": false,
+            "id": "499",
+            "includeChildObjectTypes": false,
+            "indexed": true,
+            "iql": "",
+            "label": false,
+            "maximumCardinality": 1,
+            "minimumCardinality": 1,
+            "name": "Scope",
+            "options": "Global,Local",
+            "position": 13,
+            "regexValidation": "",
+            "removable": true,
+            "sortable": true,
+            "suffix": "",
+            "summable": false,
+            "system": false,
+            "type": 0,
+            "uniqueAttribute": false,
+            "workspaceId": "89162b47-7f0b-4d21-823b-57f008682778"
+        }
+    ],
+    "objectTypeIsInherited": false,
+    "orderWay": "ascending",
+    "pageNumber": 1,
+    "pageObjectSize": 2,
+    "pageSize": 247,
+    "startIndex": 1,
+    "toIndex": 2,
+    "totalFilterCount": 494
+}
